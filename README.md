@@ -1,17 +1,40 @@
-# Student Attendance Management System in PHP
+# Student Attendance Management System
 
-This is a Online Student Attendance Management System in PHP, created by Mahmudul Hassan with the massive support and involvement of the community.
+A web-based student attendance management system developed using PHP. This project helps manage student attendance records and view attendance-related information.
 
-## Installation & Usage
+## Features
 
-```python
-Download the zip file, then extract it to your localhost.
-```
+- Student attendance management
+- View attendance by date
+- View student attendance records
+- Simple web-based interface
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Technologies Used
 
-Please make sure to update tests as appropriate.
+- PHP
+- HTML
+- CSS (if used in the project)
+- MySQL (if configured in the project)
 
-## License
-This project is released under the [MIT](https://choosealicense.com/licenses/mit/) license.
+## Project Files
+
+- `index.php` – Main page
+- `add.php` – Attendance-related operations
+- `date_view.php` – View attendance by date
+- `student_view.php` – View student attendance records
+
+## Installation and Usage
+
+1. Install a local PHP development environment such as XAMPP.
+2. Copy the project folder into the `htdocs` directory.
+3. Configure the database if required by the project.
+4. Start Apache and MySQL in XAMPP, if applicable.
+5. Open the project in your browser using `http://localhost/your-project-folder/`.
+
+## Purpose
+
+This project demonstrates the use of PHP for developing a web-based student attendance management system.
+
+## Author
+
+Abhishek Kumar
